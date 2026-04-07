@@ -1,6 +1,7 @@
-streamlit
 openai
 pandas
 pydantic
 numpy
 python-dotenv
+fastapi
+uvicorn
